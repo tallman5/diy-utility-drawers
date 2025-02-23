@@ -1,5 +1,7 @@
 # DIY Utility Drawers
 
+![](images/cabinet-assembly-render.png)
+
 ## Description
 This DIY Utility Drawers project offers a streamlined approach to creating versatile storage units that resemble kitchen cabinets but are optimized for workshop environments.
 The design leverages simple construction techniques suitable for both novice and experienced DIY enthusiasts, focusing on functionality and ease of assembly.
