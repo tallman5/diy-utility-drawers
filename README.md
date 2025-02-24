@@ -21,9 +21,9 @@ The overall structure is designed to fit typical computer cabinet dimensions, ma
 Drawer heights are designed in multiples of 1.75 inches, allowing for customizable storage solutions that can accommodate a variety of tools and materials.
 
 ## Construction Details
-1. **Materials Needed:** Plywood, wood glue, screws, and finishing materials such as paint or varnish.
-1. **Tools Required:** Circular saw, drill, and sanding tools.
-1. **Assembly Instructions:** (Coming soon!) Detailed step-by-step instructions will guide you through the process of measuring, cutting, and assembling the drawers and cabinet frame. Diagrams and videos will provide visual aid to ensure clarity and accuracy.
+1. **Materials Needed:** Plywood, wood glue, screws, and finishing materials such as paint or varnish. A full bill of materials can be found [here](4-cabinet-counter-bom.md).
+1. **Tools Required:** Circular or table saw, drill, and sanding tools.
+1. **Assembly Instructions:** (Coming soon!) Step-by-step instructions will guide you through the process of measuring, cutting, and assembling the drawers and cabinet frame. Diagrams will provide visual aid to ensure clarity and accuracy. The current version of the assembly instructions can be found [here](assembly-instructions.md).
 
 ## Project Goals
 The aim of this project is to provide a cost-effective, durable, and aesthetically pleasing storage solution for workshops, garages, or even home offices where utility and space optimization are key. By following this guide, users will be able to craft a set of high-quality drawers that are both functional and stylish, without the complexities and costs associated with traditional cabinet making.
