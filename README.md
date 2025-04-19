@@ -26,4 +26,4 @@ Drawer heights are designed in multiples of 1U, 1.75 inches, allowing for custom
 ## Construction Details
 1. **Materials Needed:** Plywood, wood glue, screws, and finishing materials such as paint or varnish. A full bill of materials can be found [here](4-cabinet-counter-bom.md).
 1. **Tools Required:** Circular or table saw, drill, and sanding tools.
-1. **Assembly Instructions:** (Coming soon!) Step-by-step instructions will guide you through the process of measuring, cutting, and assembling the drawers and cabinet frame. Diagrams will provide visual aid to ensure clarity and accuracy.
+1. **Assembly Instructions:** (Coming soon!) Step-by-step instructions will guide you through the process of measuring, cutting, and assembling the drawers and cabinet frame. Diagrams will provide visual aid to ensure clarity and accuracy. The current version of the assembly instructions can be found [here](assembly-instructions.md).
