@@ -20,7 +20,7 @@
 |![](images/drawer-bottom.png)|Drawer Bottom v27:1|Drawer Bottom||24|22 1/4" x 20" x 1/2"|
 |![](images/footer-long.png)|Footer Long v4:1|Footer Long||2|84" x 3 1/2" x 1 1/2"|
 |![](images/footer-short.png)|Footer Short v4:1|Footer Short||5|16" x 3 1/2" x 1 1/2"|
-|![](images/frame-side-36.35--finish-height.png)|Frame Side 36.35" Finish Height v5:1|Frame Side 36.35" Finish Height||8|31 1/4" x 21 1/1" x 3/4"|
+|![](images/frame-side-36.35--finish-height.png)|Frame Side 36.35" Finish Height v5:1|Frame Side 36.35" Finish Height||8|31 1/4" x 22" x 3/4"|
 |![](images/frame-stretcher.png)|Frame Stretcher v11:1|Frame Stretcher||24|19 1/2" x 3 3/4" x 3/4"|
 |![](images/laminate-end.png)|Laminate End:1|Laminate End||2||
 |![](images/laminate-front.png)|Laminate Front:1|Laminate Front||1||
