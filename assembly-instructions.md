@@ -19,11 +19,16 @@
     1. Cut all stringers to length
     1. Drill pocket holes in the ends of each stringer
 1. Glue and screw the stringers to the sides
+1. Diagonal Brace
+    1. Cut the brace long
+    1. With the frame face down, align the brace on the back of the frame
+    1. Trace the lines for cutting the brace
+    1. Glue and screw the brace in place
 
 ## Drawers
 ![](images/drawer-exploded-render.png)
 1. Cut drawer bottoms
-1. Cut side rabbets and dados
+1. Cut side rabbets and front/back dados
 1. Cut false back (optional)
-1. Glue and tack sides and false back
-1. Glue and tack bottom to sides
+1. Glue and tack sides, front, back and false back to form the box
+1. Glue and tack bottom to the box
